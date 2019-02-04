@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<architect-project version="1.0" appversion="1.0.7">
+<architect-project version="1.0" appversion="1.0.8">
  <project-name>logical_model</project-name>
  <print-settings numCopies="1" zoom="1.0" pageNumbersPrinted="true" orientation="1" paperWidth="612.0" paperHeight="792.0" leftBorder="50.0" rightBorder="50.0" topBorder="50.0" bottomBorder="50.0" />
  <project-data-sources>
@@ -616,7 +616,7 @@
    </folder>
   </table>
   <table id="TAB167" populated="true" UUID="d412afce-ea73-4d36-8ef2-f44f57a74c7a" name="locationgeometry" objectType="TABLE" physicalName="locationgeometry" >
-   <remarks>contains records for different kinds of geometry or shape/dimension of a location in space. for example: a point (0d point in space, like a bird or a nest), a line (1d, like a transect), or a polygon (2d plane, like a plot or site). </remarks>
+   <remarks>contains records for different kinds of geometry or shape/dimension of a location in space. for example: a point (0d point in space, like a bird or a nest), a line (1d, like a transect), or a polygon (2d plane, like a plot or site).</remarks>
    <folder id="FOLTAB1671" populated="true" name="Columns" physicalName="Columns" type="1">
     <column id="COL168" populated="true" UUID="e9d4e3dc-6492-465b-b8be-5290651e705a" autoIncrement="false" autoIncrementSequenceName="locationgeometry_locationgeometryid_seq" defaultValue="" name="locationgeometryid" nullable="0" physicalName="locationgeometryid" precision="0" primaryKeySeq="0" referenceCount="1" scale="0" sourceDataTypeName="UserDefinedSQLType" type="-5" userDefinedTypeUUID="433cc8af-284d-4abb-8ef7-08ebcb34dbf1" >
      <remarks>pk for a type of geometry/shape</remarks>
@@ -2072,7 +2072,7 @@
  <ddl-generator type="ca.sqlpower.architect.ddl.GenericDDLGenerator" allow-connection="true"> </ddl-generator>
  <liquibase-settings useSeparateChangeSets="false" generateId="false" idStart="1"/>
  <create-kettle-job-settings filePath="" jobName="" schemaName="" kettleJoinType="0" savingToFile="true" />
- <play-pen zoom="0.12690815006468306" viewportX="0" viewportY="0" relationship-style="rectilinear" names-displayLogicalNames="true" showPrimaryTag="true" showForeignTag="true" showAlternateTag="true" columnVisibility="ALL" relationshipLabelVisibility="true">
+ <play-pen zoom="1.0" viewportX="1460" viewportY="1529" relationship-style="rectilinear" names-displayLogicalNames="true" showPrimaryTag="true" showForeignTag="true" showAlternateTag="true" columnVisibility="ALL" relationshipLabelVisibility="true">
   <table-pane table-ref="TAB1" x="1529" y="2190" bgColor="0xeeeeee" fgColor="0x000000" rounded="false" dashed="false"/>
   <table-pane table-ref="TAB10" x="1200" y="2212" bgColor="0xf0f0f0" fgColor="0x000000" rounded="false" dashed="false"/>
   <table-pane table-ref="TAB19" x="1304" y="2471" bgColor="0xeeeeee" fgColor="0x000000" rounded="false" dashed="false"/>
@@ -2236,12 +2236,12 @@
   <table-link relationship-ref="REL662" pkConnection="0.5362318840579711" fkConnection="0.4353448275862069" rLineColor="0x000000" pkLabelText="" fkLabelText="" orientation="132"/>
   <table-link relationship-ref="REL664" pkConnection="0.45989304812834225" fkConnection="0.5590551181102362" rLineColor="0x000000" pkLabelText="" fkLabelText="" orientation="72"/>
   <table-link relationship-ref="REL518" pkConnection="0.08264462809917356" fkConnection="0.4330708661417323" rLineColor="0x000000" pkLabelText="" fkLabelText="" orientation="20"/>
-  <table-link relationship-ref="REL666" pkConnection="0.36507936507936506" fkConnection="0.5594405594405595" rLineColor="0x000000" pkLabelText="" fkLabelText="" orientation="33"/>
+  <table-link relationship-ref="REL666" pkConnection="0.9453551912568307" fkConnection="0.0" rLineColor="0x000000" pkLabelText="" fkLabelText="" orientation="36"/>
   <table-link relationship-ref="REL520" pkConnection="0.8760330578512396" fkConnection="0.21238938053097345" rLineColor="0x000000" pkLabelText="" fkLabelText="" orientation="72"/>
   <table-link relationship-ref="REL522" pkConnection="0.743801652892562" fkConnection="0.26737967914438504" rLineColor="0x000000" pkLabelText="" fkLabelText="" orientation="72"/>
   <table-link relationship-ref="REL608" pkConnection="0.4722222222222222" fkConnection="0.5347593582887701" rLineColor="0x000000" pkLabelText="" fkLabelText="" orientation="132"/>
   <table-link relationship-ref="REL524" pkConnection="0.6115702479338843" fkConnection="0.4247104247104247" rLineColor="0x000000" pkLabelText="" fkLabelText="" orientation="72"/>
-  <table-link relationship-ref="REL668" pkConnection="0.43617021276595747" fkConnection="0.5701357466063348" rLineColor="0x000000" pkLabelText="" fkLabelText="" orientation="72"/>
+  <table-link relationship-ref="REL668" pkConnection="0.5092592592592593" fkConnection="0.5701357466063348" rLineColor="0x000000" pkLabelText="" fkLabelText="" orientation="72"/>
  </play-pen>
  <critic-manager>
   <critic-grouping platformType="Generic" enabled="true">
