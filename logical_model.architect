@@ -2948,7 +2948,7 @@ Canadian codes obtained from: http://drupal.org/node/255995 (http://www.freeform
  <ddl-generator type="ca.sqlpower.architect.ddl.GenericDDLGenerator" allow-connection="true"> </ddl-generator>
  <liquibase-settings useSeparateChangeSets="false" generateId="false" idStart="1"/>
  <create-kettle-job-settings filePath="" jobName="" schemaName="" kettleJoinType="0" savingToFile="true" />
- <play-pen zoom="1.1892071150027173" viewportX="2124" viewportY="0" relationship-style="rectilinear" names-displayLogicalNames="true" showPrimaryTag="true" showForeignTag="true" showAlternateTag="true" columnVisibility="ALL" relationshipLabelVisibility="true">
+ <play-pen zoom="0.3535533905932726" viewportX="0" viewportY="0" relationship-style="rectilinear" names-displayLogicalNames="true" showPrimaryTag="true" showForeignTag="true" showAlternateTag="true" columnVisibility="ALL" relationshipLabelVisibility="true">
   <table-pane table-ref="TAB1" x="2404" y="1400" bgColor="0xeeeeee" fgColor="0x000000" rounded="false" dashed="false"/>
   <table-pane table-ref="TAB10" x="1948" y="1417" bgColor="0xf0f0f0" fgColor="0x000000" rounded="false" dashed="false"/>
   <table-pane table-ref="TAB16" x="2163" y="1722" bgColor="0xeeeeee" fgColor="0x000000" rounded="false" dashed="false"/>
@@ -2986,11 +2986,11 @@ Canadian codes obtained from: http://drupal.org/node/255995 (http://www.freeform
   <table-pane table-ref="TAB231" x="883" y="2224" bgColor="0xf6bcbc" fgColor="0x000000" rounded="false" dashed="false"/>
   <table-pane table-ref="TAB237" x="1015" y="2090" bgColor="0xf6bcbc" fgColor="0x000000" rounded="true" dashed="true"/>
   <table-pane table-ref="TAB243" x="514" y="1987" bgColor="0xf6bcbc" fgColor="0x000000" rounded="true" dashed="true"/>
-  <table-pane table-ref="TAB249" x="748" y="2321" bgColor="0xf6bcbc" fgColor="0x000000" rounded="false" dashed="false"/>
+  <table-pane table-ref="TAB249" x="687" y="2322" bgColor="0xf6bcbc" fgColor="0x000000" rounded="false" dashed="false"/>
   <table-pane table-ref="TAB255" x="2395" y="930" bgColor="0xbfd6ff" fgColor="0x000000" rounded="true" dashed="true"/>
   <table-pane table-ref="TAB263" x="2619" y="772" bgColor="0xbfd6ff" fgColor="0x000000" rounded="true" dashed="true"/>
   <table-pane table-ref="TAB268" x="3408" y="1988" bgColor="0xe6d794" fgColor="0x000000" rounded="false" dashed="false"/>
-  <table-pane table-ref="TAB275" x="3713" y="1994" bgColor="0xe6d794" fgColor="0x000000" rounded="true" dashed="true"/>
+  <table-pane table-ref="TAB275" x="3699" y="1896" bgColor="0xe6d794" fgColor="0x000000" rounded="true" dashed="true"/>
   <table-pane table-ref="TAB280" x="3275" y="1770" bgColor="0xe6d794" fgColor="0x000000" rounded="false" dashed="false"/>
   <table-pane table-ref="TAB289" x="1535" y="1462" bgColor="0xeeeeee" fgColor="0x000000" rounded="false" dashed="false"/>
   <table-pane table-ref="TAB296" x="2081" y="1153" bgColor="0xeeeeee" fgColor="0x000000" rounded="false" dashed="false"/>
@@ -3017,7 +3017,7 @@ Canadian codes obtained from: http://drupal.org/node/255995 (http://www.freeform
   <table-pane table-ref="TAB440" x="1190" y="574" bgColor="0xc8b7ea" fgColor="0x000000" rounded="false" dashed="false"/>
   <table-pane table-ref="TAB446" x="774" y="913" bgColor="0xc8b7ea" fgColor="0x000000" rounded="false" dashed="false"/>
   <table-pane table-ref="TAB458" x="961" y="1323" bgColor="0xc8b7ea" fgColor="0x000000" rounded="false" dashed="false"/>
-  <table-pane table-ref="TAB466" x="859" y="582" bgColor="0xc8b7ea" fgColor="0x000000" rounded="false" dashed="false"/>
+  <table-pane table-ref="TAB466" x="834" y="514" bgColor="0xc8b7ea" fgColor="0x000000" rounded="false" dashed="false"/>
   <table-pane table-ref="TAB484" x="619" y="1190" bgColor="0xc8b7ea" fgColor="0x000000" rounded="false" dashed="false"/>
   <table-pane table-ref="TAB497" x="964" y="1236" bgColor="0xc8b7ea" fgColor="0x000000" rounded="false" dashed="false"/>
   <table-pane table-ref="TAB502" x="350" y="257" bgColor="0xc8b7ea" fgColor="0x000000" rounded="false" dashed="false"/>
@@ -3026,7 +3026,7 @@ Canadian codes obtained from: http://drupal.org/node/255995 (http://www.freeform
   <table-pane table-ref="TAB531" x="446" y="1052" bgColor="0xc8b7ea" fgColor="0x000000" rounded="false" dashed="false"/>
   <table-pane table-ref="TAB537" x="599" y="1380" bgColor="0xc8b7ea" fgColor="0x000000" rounded="false" dashed="false"/>
   <table-pane table-ref="TAB544" x="1105" y="70" bgColor="0xc8b7ea" fgColor="0x000000" rounded="false" dashed="false"/>
-  <table-pane table-ref="TAB566" x="735" y="229" bgColor="0xc8b7ea" fgColor="0x000000" rounded="false" dashed="false"/>
+  <table-pane table-ref="TAB566" x="755" y="112" bgColor="0xc8b7ea" fgColor="0x000000" rounded="false" dashed="false"/>
   <table-pane table-ref="TAB585" x="876" y="1083" bgColor="0xc8b7ea" fgColor="0x000000" rounded="false" dashed="false"/>
   <table-pane table-ref="TAB592" x="407" y="574" bgColor="0xc8b7ea" fgColor="0x000000" rounded="false" dashed="false"/>
   <table-pane table-ref="TAB616" x="1754" y="2060" bgColor="0xeeeeee" fgColor="0x000000" rounded="false" dashed="false"/>
@@ -3076,7 +3076,7 @@ Canadian codes obtained from: http://drupal.org/node/255995 (http://www.freeform
   <table-link relationship-ref="REL867" pkConnection="0.11304347826086956" fkConnection="0.2773109243697479" rLineColor="0x000000" pkLabelText="" fkLabelText="" orientation="132"/>
   <table-link relationship-ref="REL893" pkConnection="0.37547892720306514" fkConnection="0.7400881057268722" rLineColor="0x000000" pkLabelText="" fkLabelText="" orientation="132"/>
   <table-link relationship-ref="REL857" pkConnection="0.6964285714285714" fkConnection="0.36318407960199006" rLineColor="0x000000" pkLabelText="" fkLabelText="" orientation="72"/>
-  <table-link relationship-ref="REL883" pkConnection="0.5330396475770925" fkConnection="0.4577114427860697" rLineColor="0x000000" pkLabelText="" fkLabelText="" orientation="132"/>
+  <table-link relationship-ref="REL883" pkConnection="0.5330396475770925" fkConnection="0.6318407960199005" rLineColor="0x000000" pkLabelText="" fkLabelText="" orientation="132"/>
   <table-link relationship-ref="REL707" pkConnection="0.42424242424242425" fkConnection="0.08680555555555555" rLineColor="0x000000" pkLabelText="" fkLabelText="" orientation="129"/>
   <table-link relationship-ref="REL897" pkConnection="0.22807017543859648" fkConnection="0.6460176991150443" rLineColor="0x000000" pkLabelText="" fkLabelText="" orientation="18"/>
   <table-link relationship-ref="REL739" pkConnection="0.5294117647058824" fkConnection="0.35174418604651164" rLineColor="0x000000" pkLabelText="" fkLabelText="" orientation="72"/>
@@ -3148,7 +3148,7 @@ Canadian codes obtained from: http://drupal.org/node/255995 (http://www.freeform
   <table-link relationship-ref="REL935" pkConnection="0.6056338028169014" fkConnection="0.4602510460251046" rLineColor="0x000000" pkLabelText="" fkLabelText="" orientation="33"/>
   <table-link relationship-ref="REL947" pkConnection="0.21212121212121213" fkConnection="0.6234309623430963" rLineColor="0x000000" pkLabelText="" fkLabelText="" orientation="18"/>
   <table-link relationship-ref="REL931" pkConnection="0.5894736842105263" fkConnection="0.2956521739130435" rLineColor="0x000000" pkLabelText="" fkLabelText="" orientation="132"/>
-  <table-link relationship-ref="REL933" pkConnection="0.5894736842105263" fkConnection="0.3826086956521739" rLineColor="0x000000" pkLabelText="" fkLabelText="" orientation="132"/>
+  <table-link relationship-ref="REL933" pkConnection="0.8375634517766497" fkConnection="0.3826086956521739" rLineColor="0x000000" pkLabelText="" fkLabelText="" orientation="132"/>
   <table-link relationship-ref="REL949" pkConnection="0.8888888888888888" fkConnection="0.14084507042253522" rLineColor="0x000000" pkLabelText="" fkLabelText="" orientation="33"/>
   <table-link relationship-ref="REL951" pkConnection="0.5305164319248826" fkConnection="0.47150259067357514" rLineColor="0x000000" pkLabelText="" fkLabelText="" orientation="132"/>
   <table-link relationship-ref="REL865" pkConnection="0.5738831615120275" fkConnection="0.4625" rLineColor="0x000000" pkLabelText="" fkLabelText="" orientation="132"/>
