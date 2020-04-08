@@ -1,5 +1,8 @@
 ## Welcome to GitHub Pages
 
+<iframe src="https://mdn-samples.mozilla.org/snippets/html/iframe-simple-contents.html"
+            title="iframe Example 1" width="400" height="300">
+
 You can use the [editor on GitHub](https://github.com/jlblcc/fits/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
